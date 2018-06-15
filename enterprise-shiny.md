@@ -1,6 +1,8 @@
 # Effectively Scaling Shiny in the Enterprise
 ### James Blair
 
+![](img/rstudio-logo.png)
+
 Scalability is a hot word these days, and for good reason. As data continues to grow in volume and importance, the ability to reliably access and reason about that data increases in importance. Enterprises expect data analysis and reporting solutions that are robust and allow several hundred, even thousands, of concurrent users while offering up-to-date security options.
 
 [Shiny](http://shiny.rstudio.com/) is a highly flexible and widely used framework for creating web applications using R. It enables data scientists and analysts to create dynamic content that provides straightforward access to their work for those with no working knowledge of R. While Shiny has been around for quite some time, recent introductions to the Shiny ecosystem make Shiny simpler and safer to deploy in an enterprise environment where security and scalability are paramount. These new tools in connection with [RStudio Connect](https://www.rstudio.com/products/connect/) provide enterprise grade solutions that make Shiny an even more attractive option for data resource creation.
